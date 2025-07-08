@@ -6,7 +6,7 @@ public class MC8 {
 
         LocalDate diaDehJ = LocalDate.now();
 
-        DateTimeFormatter day = DateTimeFormatter.ofPattern("08/07/2025");
+        DateTimeFormatter day = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         System.out.println("Hoje é: " + day.format(diaDehJ));
     }
 }
