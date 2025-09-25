@@ -8,7 +8,6 @@ Aqui você vai encontrar conceitos, exemplos e exercícios práticos focados na 
 ## ✨ O que você vai encontrar aqui
 
 - ✅ Conceitos fundamentais da POO
-- ✅ Códigos comentados e explicados
 - ✅ exercícios de fixação
 - ✅ Meu aprendizado em Java
 
