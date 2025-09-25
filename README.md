@@ -26,6 +26,7 @@ Aqui você vai encontrar conceitos, exemplos e exercícios práticos focados na 
 - **Interfaces e classes abstratas**
 - **Composição x Herança**
 - **Sobrecarga e sobrescrita de métodos**
+- **Try e Catch // Tratamento de Exceções**
 
 ---
 
