@@ -20,5 +20,6 @@ public class GG {
         } catch (Exception e) {
             System.out.println("Deu ruim");
         }
+        ler.close();
     }
 }
