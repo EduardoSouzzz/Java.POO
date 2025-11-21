@@ -24,6 +24,7 @@ Aqui você vai encontrar conceitos, exemplos e exercícios práticos focados na 
 - **Modificadores de acesso**
 - **Interfaces e classes abstratas**
 - **Composição x Herança**
+- **Agregação**
 - **Sobrecarga e sobrescrita de métodos**
 - **Try e Catch // Tratamento de Exceções**
 
