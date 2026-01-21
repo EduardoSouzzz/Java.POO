@@ -1,13 +1,13 @@
 package util;
 
-import java.util.function.Consumer;
+import java.util.function.Function;
 
 import entities.Product;
 
-public class PriceUpdate implements Consumer<Product> {
+public class UpperCaseName implements Function<Product, String> {
 
 	@Override
-	public void accept(Product p) {
-		p.setPrice(p.getPrice() * 1.1);
+	public String apply(Product p) {
+		return p.getName().toUpperCase();
 	}
 }
