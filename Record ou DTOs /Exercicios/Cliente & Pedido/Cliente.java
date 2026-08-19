@@ -1,0 +1,26 @@
+public class Cliente {
+
+    private Long id;
+    private String nomeCliente;
+
+    public Cliente(Long id, String nomeCliente) {
+        this.id = id;
+        this.nomeCliente = nomeCliente;
+    }
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public String getNomeCliente() {
+        return nomeCliente;
+    }
+
+    public void setNomeCliente(String nomeCliente) {
+        this.nomeCliente = nomeCliente;
+    }
+}
